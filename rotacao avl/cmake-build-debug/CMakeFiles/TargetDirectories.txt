@@ -1,0 +1,3 @@
+C:/Users/bruno/Desktop/facul/1 semestre 2020/aedII/balanceamento abb/cmake-build-debug/CMakeFiles/balanceamento_abb.dir
+C:/Users/bruno/Desktop/facul/1 semestre 2020/aedII/balanceamento abb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bruno/Desktop/facul/1 semestre 2020/aedII/balanceamento abb/cmake-build-debug/CMakeFiles/rebuild_cache.dir

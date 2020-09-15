@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\abb.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\abb.dir/objects.a @CMakeFiles\abb.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\abb.dir/objects.a -Wl,--no-whole-archive  -o abb.exe -Wl,--out-implib,libabb.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\abb.dir\linklibs.rsp
