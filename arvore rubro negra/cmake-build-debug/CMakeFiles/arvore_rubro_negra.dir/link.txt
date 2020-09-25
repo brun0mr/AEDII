@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\arvore_rubro_negra.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\arvore_rubro_negra.dir/objects.a @CMakeFiles\arvore_rubro_negra.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\arvore_rubro_negra.dir/objects.a -Wl,--no-whole-archive  -o arvore_rubro_negra.exe -Wl,--out-implib,libarvore_rubro_negra.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arvore_rubro_negra.dir\linklibs.rsp

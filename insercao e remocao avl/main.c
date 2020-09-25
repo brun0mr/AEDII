@@ -174,6 +174,13 @@ struct Node *deleteNode(struct Node *root, int key) {
     return root;
 }
 
+
+
+
+
+
+
+
 // Print the tree
 void *Imprime(struct Node *No)
 {
